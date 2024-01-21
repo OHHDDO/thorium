@@ -1,4 +1,4 @@
-# thorium
+# Thorium
 
 An EcoleDirecte client made by students
 
